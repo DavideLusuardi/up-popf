@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+up_popf/__init__.py
+up_popf/plan.py
+up_popf/popf.py
+up_popf.egg-info/PKG-INFO
+up_popf.egg-info/SOURCES.txt
+up_popf.egg-info/dependency_links.txt
+up_popf.egg-info/top_level.txt
